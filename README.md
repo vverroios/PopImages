@@ -1,4 +1,4 @@
 # PopImages
 Popular Images dataset
-parts created via: `zip existing.zip --out new.zip -s 90m` \n
+parts created via: `zip existing.zip --out new.zip -s 90m` ;
 collect into single `zip file: zip -F new.zip --out existing.zip`
